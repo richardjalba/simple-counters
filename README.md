@@ -1,3 +1,5 @@
+# lyric-scout
+
 This app demonstrates list rendering and dynamic class rendering.
 
 The Simple Counters app lets the user control four separate counters. The user can increment, decrement, or delete the four counters.
