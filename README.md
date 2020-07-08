@@ -1,4 +1,4 @@
-# lyric-scout
+# simple-counters
 
 This app demonstrates list rendering and dynamic class rendering.
 
